@@ -1,0 +1,124 @@
+// this file was generated from Buzzy Lead.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251496 loop_end=326996 sample=../Audio/Buzzy Lead/(2013115 6923)/36C1-LLXZ.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284483 loop_end=363368 sample=../Audio/Buzzy Lead/(2013115 6923)/37C#1-1AKF.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=224080 loop_end=299740 sample=../Audio/Buzzy Lead/(2013115 6923)/38D1-2ZVM.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254498 loop_end=329309 sample=../Audio/Buzzy Lead/(2013115 6923)/39D#1-Q3CL.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289053 loop_end=362873 sample=../Audio/Buzzy Lead/(2013115 6923)/40E1-1L0A.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263817 loop_end=337532 sample=../Audio/Buzzy Lead/(2013115 6923)/41F1-A0A1.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256069 loop_end=337092 sample=../Audio/Buzzy Lead/(2013115 6923)/42F#1-W81W.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277588 loop_end=352253 sample=../Audio/Buzzy Lead/(2013115 6923)/43G1-S1JC.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226299 loop_end=301029 sample=../Audio/Buzzy Lead/(2013115 6923)/44G#1-VIM3.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220016 loop_end=293754 sample=../Audio/Buzzy Lead/(2013115 6923)/45A1-0CXM.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263669 loop_end=347643 sample=../Audio/Buzzy Lead/(2013115 6923)/46A#1-KTBA.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262386 loop_end=342364 sample=../Audio/Buzzy Lead/(2013115 6923)/47B1-GCW4.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290780 loop_end=362903 sample=../Audio/Buzzy Lead/(2013115 6923)/48C2-K193.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247682 loop_end=326568 sample=../Audio/Buzzy Lead/(2013115 6923)/49C#2-AVSJ.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275267 loop_end=349126 sample=../Audio/Buzzy Lead/(2013115 6923)/50D2-CNEK.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236471 loop_end=310716 sample=../Audio/Buzzy Lead/(2013115 6923)/51D#2-UERT.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238759 loop_end=313118 sample=../Audio/Buzzy Lead/(2013115 6923)/52E2-3JVB.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226609 loop_end=301339 sample=../Audio/Buzzy Lead/(2013115 6923)/53F2-D5HB.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220814 loop_end=295639 sample=../Audio/Buzzy Lead/(2013115 6923)/54F#2-7OB0.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288426 loop_end=363102 sample=../Audio/Buzzy Lead/(2013115 6923)/55G2-NZEB.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252728 loop_end=327034 sample=../Audio/Buzzy Lead/(2013115 6923)/56G#2-XMCR.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=256126 loop_end=330271 sample=../Audio/Buzzy Lead/(2013115 6923)/57A2-I7KL.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280748 loop_end=354887 sample=../Audio/Buzzy Lead/(2013115 6923)/58A#2-6YBP.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285255 loop_end=359156 sample=../Audio/Buzzy Lead/(2013115 6923)/59B2-AP6K.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288377 loop_end=362519 sample=../Audio/Buzzy Lead/(2013115 6923)/60C3-ZPEF.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261750 loop_end=335861 sample=../Audio/Buzzy Lead/(2013115 6923)/61C#3-QS2T.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285829 loop_end=360294 sample=../Audio/Buzzy Lead/(2013115 6923)/62D3-714P.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=279678 loop_end=353939 sample=../Audio/Buzzy Lead/(2013115 6923)/63D#3-JAG4.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264516 loop_end=338614 sample=../Audio/Buzzy Lead/(2013115 6923)/64E3-5V4I.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262679 loop_end=336921 sample=../Audio/Buzzy Lead/(2013115 6923)/65F3-Z5TT.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=281183 loop_end=355551 sample=../Audio/Buzzy Lead/(2013115 6923)/66F#3-PIQ3.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266293 loop_end=340539 sample=../Audio/Buzzy Lead/(2013115 6923)/67G3-XEHX.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289089 loop_end=363190 sample=../Audio/Buzzy Lead/(2013115 6923)/68G#3-XHS8.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=253851 loop_end=327989 sample=../Audio/Buzzy Lead/(2013115 6923)/69A3-J8HQ.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=277324 loop_end=351833 sample=../Audio/Buzzy Lead/(2013115 6923)/70A#3-2EHA.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280558 loop_end=354846 sample=../Audio/Buzzy Lead/(2013115 6923)/71B3-IX2R.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288471 loop_end=362642 sample=../Audio/Buzzy Lead/(2013115 6923)/72C4-IU52.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=287171 loop_end=361630 sample=../Audio/Buzzy Lead/(2013115 6923)/73C#4-YL22.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=276440 loop_end=351070 sample=../Audio/Buzzy Lead/(2013115 6923)/74D4-1Y2R.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=286426 loop_end=360839 sample=../Audio/Buzzy Lead/(2013115 6923)/75D#4-E8KG.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=284119 loop_end=358366 sample=../Audio/Buzzy Lead/(2013115 6923)/76E4-F5YM.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=289209 loop_end=363814 sample=../Audio/Buzzy Lead/(2013115 6923)/77F4-ZCWW.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251827 loop_end=346079 sample=../Audio/Buzzy Lead/(2013115 6923)/78F#4-ZKAM.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261685 loop_end=355747 sample=../Audio/Buzzy Lead/(2013115 6923)/79G4-N2VJ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250718 loop_end=339841 sample=../Audio/Buzzy Lead/(2013115 6923)/80G#4-IRIR.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258980 loop_end=353178 sample=../Audio/Buzzy Lead/(2013115 6923)/81A4-ECKG.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258884 loop_end=353222 sample=../Audio/Buzzy Lead/(2013115 6923)/82A#4-HVC8.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=227788 loop_end=321835 sample=../Audio/Buzzy Lead/(2013115 6923)/83B4-4RHR.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251005 loop_end=345473 sample=../Audio/Buzzy Lead/(2013115 6923)/84C5-WBY3.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252793 loop_end=347083 sample=../Audio/Buzzy Lead/(2013115 6923)/85C#5-Z46O.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246709 loop_end=340677 sample=../Audio/Buzzy Lead/(2013115 6923)/86D5-QL4Z.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=255957 loop_end=349885 sample=../Audio/Buzzy Lead/(2013115 6923)/87D#5-10U6.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259930 loop_end=354071 sample=../Audio/Buzzy Lead/(2013115 6923)/88E5-JT0K.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258984 loop_end=353062 sample=../Audio/Buzzy Lead/(2013115 6923)/89F5-E39Z.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261068 loop_end=355187 sample=../Audio/Buzzy Lead/(2013115 6923)/90F#5-A3NF.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252046 loop_end=346259 sample=../Audio/Buzzy Lead/(2013115 6923)/91G5-OKQ0.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=259754 loop_end=354258 sample=../Audio/Buzzy Lead/(2013115 6923)/92G#5-H1PA.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258228 loop_end=357603 sample=../Audio/Buzzy Lead/(2013115 6923)/93A5-75G9.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260947 loop_end=355278 sample=../Audio/Buzzy Lead/(2013115 6923)/94A#5-6ELE.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250954 loop_end=345179 sample=../Audio/Buzzy Lead/(2013115 6923)/95B5-D4JA.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264563 loop_end=363806 sample=../Audio/Buzzy Lead/(2013115 6923)/96C6-CX7Q.aif

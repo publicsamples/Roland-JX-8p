@@ -1,0 +1,247 @@
+// this file was generated from Look Ma No Chorus.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=11 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=222209 loop_end=274845 sample=../Audio/Look Ma No Chorus/(20131017 231236)/36C1-HN4Y.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=222193 loop_end=276165 sample=../Audio/Look Ma No Chorus/(20131017 231236)/36C1-OJB4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=346259 loop_end=427141 sample=../Audio/Look Ma No Chorus/(20131017 231236)/36C1-LH64.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271657 loop_end=429374 sample=../Audio/Look Ma No Chorus/(20131017 231236)/36C1-CRUX.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=211428 loop_end=264907 sample=../Audio/Look Ma No Chorus/(20131017 231236)/37C#1-QY8F.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=212673 loop_end=264888 sample=../Audio/Look Ma No Chorus/(20131017 231236)/37C#1-KFYH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=215439 loop_end=472463 sample=../Audio/Look Ma No Chorus/(20131017 231236)/37C#1-2MGV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=309230 loop_end=473371 sample=../Audio/Look Ma No Chorus/(20131017 231236)/37C#1-O6CX.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221537 loop_end=275596 sample=../Audio/Look Ma No Chorus/(20131017 231236)/38D1-UPTF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=221667 loop_end=274461 sample=../Audio/Look Ma No Chorus/(20131017 231236)/38D1-V6N4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=360530 loop_end=459019 sample=../Audio/Look Ma No Chorus/(20131017 231236)/38D1-3JL8.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=260261 loop_end=460824 sample=../Audio/Look Ma No Chorus/(20131017 231236)/38D1-HZ8R.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=210963 loop_end=264190 sample=../Audio/Look Ma No Chorus/(20131017 231236)/39D#1-HXN9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=212561 loop_end=264766 sample=../Audio/Look Ma No Chorus/(20131017 231236)/39D#1-UNER.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=284910 loop_end=465150 sample=../Audio/Look Ma No Chorus/(20131017 231236)/39D#1-X6BQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=288875 loop_end=447567 sample=../Audio/Look Ma No Chorus/(20131017 231236)/39D#1-DTQO.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=210838 loop_end=265416 sample=../Audio/Look Ma No Chorus/(20131017 231236)/40E1-70IX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=220905 loop_end=274452 sample=../Audio/Look Ma No Chorus/(20131017 231236)/40E1-KBJ5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=226631 loop_end=465232 sample=../Audio/Look Ma No Chorus/(20131017 231236)/40E1-QEJ5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=226582 loop_end=345337 sample=../Audio/Look Ma No Chorus/(20131017 231236)/40E1-2295.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221783 loop_end=275293 sample=../Audio/Look Ma No Chorus/(20131017 231236)/41F1-WPAH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=251193 loop_end=473407 sample=../Audio/Look Ma No Chorus/(20131017 231236)/41F1-4ZNJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=252501 loop_end=471648 sample=../Audio/Look Ma No Chorus/(20131017 231236)/41F1-G7T7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=250294 loop_end=469446 sample=../Audio/Look Ma No Chorus/(20131017 231236)/41F1-R5V4.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221394 loop_end=275714 sample=../Audio/Look Ma No Chorus/(20131017 231236)/42F#1-H0IH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=284538 loop_end=463739 sample=../Audio/Look Ma No Chorus/(20131017 231236)/42F#1-DMOP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=264064 loop_end=443261 sample=../Audio/Look Ma No Chorus/(20131017 231236)/42F#1-1O1F.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236188 loop_end=375348 sample=../Audio/Look Ma No Chorus/(20131017 231236)/42F#1-RTB0.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=212515 loop_end=264751 sample=../Audio/Look Ma No Chorus/(20131017 231236)/43G1-GQHP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=413419 loop_end=473703 sample=../Audio/Look Ma No Chorus/(20131017 231236)/43G1-PNUI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=390980 loop_end=450357 sample=../Audio/Look Ma No Chorus/(20131017 231236)/43G1-D9H4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300740 loop_end=359220 sample=../Audio/Look Ma No Chorus/(20131017 231236)/43G1-54JA.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=210764 loop_end=265125 sample=../Audio/Look Ma No Chorus/(20131017 231236)/44G#1-WSJ8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=252581 loop_end=431767 sample=../Audio/Look Ma No Chorus/(20131017 231236)/44G#1-F4Q5.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=332204 loop_end=471472 sample=../Audio/Look Ma No Chorus/(20131017 231236)/44G#1-9XYU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344892 loop_end=444248 sample=../Audio/Look Ma No Chorus/(20131017 231236)/44G#1-5XBM.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=222449 loop_end=274546 sample=../Audio/Look Ma No Chorus/(20131017 231236)/45A1-CRZ6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=311172 loop_end=471488 sample=../Audio/Look Ma No Chorus/(20131017 231236)/45A1-DE0R.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=314324 loop_end=472219 sample=../Audio/Look Ma No Chorus/(20131017 231236)/45A1-X21Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=251724 loop_end=409624 sample=../Audio/Look Ma No Chorus/(20131017 231236)/45A1-J3Q1.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=210924 loop_end=265367 sample=../Audio/Look Ma No Chorus/(20131017 231236)/46A#1-LBRE.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=337531 loop_end=456310 sample=../Audio/Look Ma No Chorus/(20131017 231236)/46A#1-827J.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=330487 loop_end=450025 sample=../Audio/Look Ma No Chorus/(20131017 231236)/46A#1-2LJ4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=298849 loop_end=418388 sample=../Audio/Look Ma No Chorus/(20131017 231236)/46A#1-Q3NC.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221079 loop_end=276031 sample=../Audio/Look Ma No Chorus/(20131017 231236)/47B1-3W0X.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=313169 loop_end=453146 sample=../Audio/Look Ma No Chorus/(20131017 231236)/47B1-KAXT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=241084 loop_end=379620 sample=../Audio/Look Ma No Chorus/(20131017 231236)/47B1-FNW2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318940 loop_end=456761 sample=../Audio/Look Ma No Chorus/(20131017 231236)/47B1-SO06.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221546 loop_end=275456 sample=../Audio/Look Ma No Chorus/(20131017 231236)/48C2-FTJ5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=292068 loop_end=471361 sample=../Audio/Look Ma No Chorus/(20131017 231236)/48C2-G5US.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=291587 loop_end=350905 sample=../Audio/Look Ma No Chorus/(20131017 231236)/48C2-Q442.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245045 loop_end=424341 sample=../Audio/Look Ma No Chorus/(20131017 231236)/48C2-ET2Q.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221487 loop_end=276153 sample=../Audio/Look Ma No Chorus/(20131017 231236)/49C#2-3T9F.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=270721 loop_end=330523 sample=../Audio/Look Ma No Chorus/(20131017 231236)/49C#2-XAVZ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=287271 loop_end=347075 sample=../Audio/Look Ma No Chorus/(20131017 231236)/49C#2-FE2N.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=402197 loop_end=463286 sample=../Audio/Look Ma No Chorus/(20131017 231236)/49C#2-TXSN.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=210688 loop_end=265888 sample=../Audio/Look Ma No Chorus/(20131017 231236)/50D2-TOX7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=311742 loop_end=391609 sample=../Audio/Look Ma No Chorus/(20131017 231236)/50D2-5TC9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=306483 loop_end=466222 sample=../Audio/Look Ma No Chorus/(20131017 231236)/50D2-7CGM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291382 loop_end=350836 sample=../Audio/Look Ma No Chorus/(20131017 231236)/50D2-3VS8.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=211130 loop_end=264375 sample=../Audio/Look Ma No Chorus/(20131017 231236)/51D#2-982Y.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=329527 loop_end=408303 sample=../Audio/Look Ma No Chorus/(20131017 231236)/51D#2-2WGF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=337440 loop_end=417357 sample=../Audio/Look Ma No Chorus/(20131017 231236)/51D#2-8WRT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243834 loop_end=323751 sample=../Audio/Look Ma No Chorus/(20131017 231236)/51D#2-DZB7.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=222665 loop_end=276164 sample=../Audio/Look Ma No Chorus/(20131017 231236)/52E2-F9PY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=279278 loop_end=399645 sample=../Audio/Look Ma No Chorus/(20131017 231236)/52E2-6E3Y.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=272506 loop_end=392872 sample=../Audio/Look Ma No Chorus/(20131017 231236)/52E2-AV1Y.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238926 loop_end=358225 sample=../Audio/Look Ma No Chorus/(20131017 231236)/52E2-7CQO.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=211909 loop_end=265911 sample=../Audio/Look Ma No Chorus/(20131017 231236)/53F2-L98X.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=264385 loop_end=443130 sample=../Audio/Look Ma No Chorus/(20131017 231236)/53F2-GI6T.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=352239 loop_end=471912 sample=../Audio/Look Ma No Chorus/(20131017 231236)/53F2-HLBV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=342378 loop_end=463574 sample=../Audio/Look Ma No Chorus/(20131017 231236)/53F2-A7N9.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221023 loop_end=275786 sample=../Audio/Look Ma No Chorus/(20131017 231236)/54F#2-KFV6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253487 loop_end=453184 sample=../Audio/Look Ma No Chorus/(20131017 231236)/54F#2-JOSD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=260511 loop_end=439716 sample=../Audio/Look Ma No Chorus/(20131017 231236)/54F#2-0LK4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=388181 loop_end=448236 sample=../Audio/Look Ma No Chorus/(20131017 231236)/54F#2-G321.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=212637 loop_end=263977 sample=../Audio/Look Ma No Chorus/(20131017 231236)/55G2-LVHI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=244167 loop_end=463256 sample=../Audio/Look Ma No Chorus/(20131017 231236)/55G2-0GBT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=236067 loop_end=454703 sample=../Audio/Look Ma No Chorus/(20131017 231236)/55G2-JX0F.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=334293 loop_end=394578 sample=../Audio/Look Ma No Chorus/(20131017 231236)/55G2-U0U9.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=232789 loop_end=285819 sample=../Audio/Look Ma No Chorus/(20131017 231236)/56G#2-YSQR.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=333624 loop_end=472470 sample=../Audio/Look Ma No Chorus/(20131017 231236)/56G#2-XMK3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=298580 loop_end=458239 sample=../Audio/Look Ma No Chorus/(20131017 231236)/56G#2-1UJW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=292247 loop_end=471870 sample=../Audio/Look Ma No Chorus/(20131017 231236)/56G#2-SGKF.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=212423 loop_end=264131 sample=../Audio/Look Ma No Chorus/(20131017 231236)/57A2-J0AP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=393685 loop_end=473049 sample=../Audio/Look Ma No Chorus/(20131017 231236)/57A2-5E4O.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=336038 loop_end=415799 sample=../Audio/Look Ma No Chorus/(20131017 231236)/57A2-C4IU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272958 loop_end=472564 sample=../Audio/Look Ma No Chorus/(20131017 231236)/57A2-H44C.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=342607 loop_end=422811 sample=../Audio/Look Ma No Chorus/(20131017 231236)/58A#2-H7BK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=358477 loop_end=438298 sample=../Audio/Look Ma No Chorus/(20131017 231236)/58A#2-ZDVK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=231421 loop_end=291192 sample=../Audio/Look Ma No Chorus/(20131017 231236)/58A#2-CBZY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=330123 loop_end=469334 sample=../Audio/Look Ma No Chorus/(20131017 231236)/58A#2-14TA.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=368239 loop_end=467496 sample=../Audio/Look Ma No Chorus/(20131017 231236)/59B2-N6RI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=261587 loop_end=439040 sample=../Audio/Look Ma No Chorus/(20131017 231236)/59B2-X4F6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=244204 loop_end=423803 sample=../Audio/Look Ma No Chorus/(20131017 231236)/59B2-WTC9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=293655 loop_end=353999 sample=../Audio/Look Ma No Chorus/(20131017 231236)/59B2-EBYA.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=251224 loop_end=429846 sample=../Audio/Look Ma No Chorus/(20131017 231236)/60C3-9NTI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=252519 loop_end=471591 sample=../Audio/Look Ma No Chorus/(20131017 231236)/60C3-BGEG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=280906 loop_end=420439 sample=../Audio/Look Ma No Chorus/(20131017 231236)/60C3-NWZR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=344943 loop_end=403917 sample=../Audio/Look Ma No Chorus/(20131017 231236)/60C3-JS3R.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=224567 loop_end=303777 sample=../Audio/Look Ma No Chorus/(20131017 231236)/61C#3-Y9C3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=254421 loop_end=472941 sample=../Audio/Look Ma No Chorus/(20131017 231236)/61C#3-O302.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=252077 loop_end=432112 sample=../Audio/Look Ma No Chorus/(20131017 231236)/61C#3-K89M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=367280 loop_end=447443 sample=../Audio/Look Ma No Chorus/(20131017 231236)/61C#3-P7YV.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=388404 loop_end=468576 sample=../Audio/Look Ma No Chorus/(20131017 231236)/62D3-CE0D.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253012 loop_end=332883 sample=../Audio/Look Ma No Chorus/(20131017 231236)/62D3-8MEO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=275555 loop_end=435597 sample=../Audio/Look Ma No Chorus/(20131017 231236)/62D3-32GX.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=395377 loop_end=455130 sample=../Audio/Look Ma No Chorus/(20131017 231236)/62D3-TSMW.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=262744 loop_end=322838 sample=../Audio/Look Ma No Chorus/(20131017 231236)/63D#3-ROTY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=303774 loop_end=383422 sample=../Audio/Look Ma No Chorus/(20131017 231236)/63D#3-BJHQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=314971 loop_end=394901 sample=../Audio/Look Ma No Chorus/(20131017 231236)/63D#3-6CCK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=222792 loop_end=282884 sample=../Audio/Look Ma No Chorus/(20131017 231236)/63D#3-ZSNX.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=369048 loop_end=448769 sample=../Audio/Look Ma No Chorus/(20131017 231236)/64E3-OV3C.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=230274 loop_end=451266 sample=../Audio/Look Ma No Chorus/(20131017 231236)/64E3-FRSW.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=251624 loop_end=431661 sample=../Audio/Look Ma No Chorus/(20131017 231236)/64E3-QGTP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=267279 loop_end=447050 sample=../Audio/Look Ma No Chorus/(20131017 231236)/64E3-TQYS.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=264097 loop_end=344405 sample=../Audio/Look Ma No Chorus/(20131017 231236)/65F3-GRVZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=393214 loop_end=472763 sample=../Audio/Look Ma No Chorus/(20131017 231236)/65F3-0WR0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=323412 loop_end=402457 sample=../Audio/Look Ma No Chorus/(20131017 231236)/65F3-X594.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307222 loop_end=466319 sample=../Audio/Look Ma No Chorus/(20131017 231236)/65F3-YC0S.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=225889 loop_end=285239 sample=../Audio/Look Ma No Chorus/(20131017 231236)/66F#3-D88P.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=233498 loop_end=453277 sample=../Audio/Look Ma No Chorus/(20131017 231236)/66F#3-LI8D.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=311638 loop_end=391731 sample=../Audio/Look Ma No Chorus/(20131017 231236)/66F#3-CGQG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243264 loop_end=462568 sample=../Audio/Look Ma No Chorus/(20131017 231236)/66F#3-XLQK.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=380936 loop_end=461707 sample=../Audio/Look Ma No Chorus/(20131017 231236)/67G3-XB7U.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=385621 loop_end=465497 sample=../Audio/Look Ma No Chorus/(20131017 231236)/67G3-N7YY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=285348 loop_end=465567 sample=../Audio/Look Ma No Chorus/(20131017 231236)/67G3-B8SP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=343553 loop_end=463030 sample=../Audio/Look Ma No Chorus/(20131017 231236)/67G3-1P3L.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=288768 loop_end=468195 sample=../Audio/Look Ma No Chorus/(20131017 231236)/68G#3-EPK1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=392413 loop_end=472680 sample=../Audio/Look Ma No Chorus/(20131017 231236)/68G#3-CTA6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=288324 loop_end=368163 sample=../Audio/Look Ma No Chorus/(20131017 231236)/68G#3-YTIH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230315 loop_end=310576 sample=../Audio/Look Ma No Chorus/(20131017 231236)/68G#3-5ATK.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=253280 loop_end=392752 sample=../Audio/Look Ma No Chorus/(20131017 231236)/69A3-8T0U.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=336023 loop_end=456249 sample=../Audio/Look Ma No Chorus/(20131017 231236)/69A3-5DKG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=323651 loop_end=443686 sample=../Audio/Look Ma No Chorus/(20131017 231236)/69A3-BSFP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=339689 loop_end=398603 sample=../Audio/Look Ma No Chorus/(20131017 231236)/69A3-YOL8.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=329482 loop_end=469058 sample=../Audio/Look Ma No Chorus/(20131017 231236)/70A#3-OAXF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=212037 loop_end=471716 sample=../Audio/Look Ma No Chorus/(20131017 231236)/70A#3-AQ14.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=359366 loop_end=439179 sample=../Audio/Look Ma No Chorus/(20131017 231236)/70A#3-3LXZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229914 loop_end=448736 sample=../Audio/Look Ma No Chorus/(20131017 231236)/70A#3-YFU0.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=221453 loop_end=341284 sample=../Audio/Look Ma No Chorus/(20131017 231236)/71B3-YNP0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=380773 loop_end=460600 sample=../Audio/Look Ma No Chorus/(20131017 231236)/71B3-71IQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=214563 loop_end=472786 sample=../Audio/Look Ma No Chorus/(20131017 231236)/71B3-TXN2.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=291696 loop_end=430467 sample=../Audio/Look Ma No Chorus/(20131017 231236)/71B3-SK1A.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=224099 loop_end=284114 sample=../Audio/Look Ma No Chorus/(20131017 231236)/72C4-VAXG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=235205 loop_end=452364 sample=../Audio/Look Ma No Chorus/(20131017 231236)/72C4-GTL8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=301729 loop_end=381468 sample=../Audio/Look Ma No Chorus/(20131017 231236)/72C4-DTFE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=376028 loop_end=455933 sample=../Audio/Look Ma No Chorus/(20131017 231236)/72C4-RPWX.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=359472 loop_end=419138 sample=../Audio/Look Ma No Chorus/(20131017 231236)/73C#4-IEX2.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=237247 loop_end=455549 sample=../Audio/Look Ma No Chorus/(20131017 231236)/73C#4-KLLH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=273452 loop_end=353327 sample=../Audio/Look Ma No Chorus/(20131017 231236)/73C#4-A9OY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=346283 loop_end=445885 sample=../Audio/Look Ma No Chorus/(20131017 231236)/73C#4-1Q1V.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=327347 loop_end=447030 sample=../Audio/Look Ma No Chorus/(20131017 231236)/74D4-FMRO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=374249 loop_end=453834 sample=../Audio/Look Ma No Chorus/(20131017 231236)/74D4-IZ0Y.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=325583 loop_end=405321 sample=../Audio/Look Ma No Chorus/(20131017 231236)/74D4-KKXH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324170 loop_end=444308 sample=../Audio/Look Ma No Chorus/(20131017 231236)/74D4-VB22.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=262450 loop_end=441759 sample=../Audio/Look Ma No Chorus/(20131017 231236)/75D#4-1M3T.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=212535 loop_end=471791 sample=../Audio/Look Ma No Chorus/(20131017 231236)/75D#4-TSY0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=324119 loop_end=443894 sample=../Audio/Look Ma No Chorus/(20131017 231236)/75D#4-6TLP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220814 loop_end=300475 sample=../Audio/Look Ma No Chorus/(20131017 231236)/75D#4-CYIH.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=401073 loop_end=460604 sample=../Audio/Look Ma No Chorus/(20131017 231236)/76E4-4FQB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=253178 loop_end=472584 sample=../Audio/Look Ma No Chorus/(20131017 231236)/76E4-N8EG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=247381 loop_end=327924 sample=../Audio/Look Ma No Chorus/(20131017 231236)/76E4-GMIW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=353369 loop_end=433503 sample=../Audio/Look Ma No Chorus/(20131017 231236)/76E4-0HO3.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=273462 loop_end=352996 sample=../Audio/Look Ma No Chorus/(20131017 231236)/77F4-BXQK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=239689 loop_end=459360 sample=../Audio/Look Ma No Chorus/(20131017 231236)/77F4-VXPA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=235944 loop_end=315604 sample=../Audio/Look Ma No Chorus/(20131017 231236)/77F4-KL8A.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=380596 loop_end=461138 sample=../Audio/Look Ma No Chorus/(20131017 231236)/77F4-X8NT.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=258623 loop_end=437845 sample=../Audio/Look Ma No Chorus/(20131017 231236)/78F#4-IOBD.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=321743 loop_end=403133 sample=../Audio/Look Ma No Chorus/(20131017 231236)/78F#4-H8U6.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=319881 loop_end=399246 sample=../Audio/Look Ma No Chorus/(20131017 231236)/78F#4-GHX5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246070 loop_end=326027 sample=../Audio/Look Ma No Chorus/(20131017 231236)/78F#4-C1OZ.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=260217 loop_end=441027 sample=../Audio/Look Ma No Chorus/(20131017 231236)/79G4-PY86.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=342613 loop_end=421940 sample=../Audio/Look Ma No Chorus/(20131017 231236)/79G4-NQF7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=213482 loop_end=472616 sample=../Audio/Look Ma No Chorus/(20131017 231236)/79G4-YFU7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230161 loop_end=449912 sample=../Audio/Look Ma No Chorus/(20131017 231236)/79G4-Q4GE.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=307156 loop_end=446636 sample=../Audio/Look Ma No Chorus/(20131017 231236)/80G#4-R62Q.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=229989 loop_end=309234 sample=../Audio/Look Ma No Chorus/(20131017 231236)/80G#4-S9YO.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=212853 loop_end=472372 sample=../Audio/Look Ma No Chorus/(20131017 231236)/80G#4-FDM4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=357830 loop_end=437715 sample=../Audio/Look Ma No Chorus/(20131017 231236)/80G#4-D9SZ.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=240882 loop_end=459665 sample=../Audio/Look Ma No Chorus/(20131017 231236)/81A4-TU7F.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=214689 loop_end=473760 sample=../Audio/Look Ma No Chorus/(20131017 231236)/81A4-H04V.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=343744 loop_end=464222 sample=../Audio/Look Ma No Chorus/(20131017 231236)/81A4-ZGSM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=365628 loop_end=445002 sample=../Audio/Look Ma No Chorus/(20131017 231236)/81A4-PQVE.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=226621 loop_end=286240 sample=../Audio/Look Ma No Chorus/(20131017 231236)/82A#4-INUC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=337529 loop_end=416547 sample=../Audio/Look Ma No Chorus/(20131017 231236)/82A#4-O5ZG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=251690 loop_end=471228 sample=../Audio/Look Ma No Chorus/(20131017 231236)/82A#4-FGWG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=220092 loop_end=300053 sample=../Audio/Look Ma No Chorus/(20131017 231236)/82A#4-CDAY.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=321001 loop_end=435656 sample=../Audio/Look Ma No Chorus/(20131017 231236)/83B4-N2AY.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=380690 loop_end=460539 sample=../Audio/Look Ma No Chorus/(20131017 231236)/83B4-LGGN.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=227373 loop_end=446284 sample=../Audio/Look Ma No Chorus/(20131017 231236)/83B4-O55B.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=372771 loop_end=452798 sample=../Audio/Look Ma No Chorus/(20131017 231236)/83B4-7OBX.aif
+<group>lokey=84 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=305811 loop_end=363867 sample=../Audio/Look Ma No Chorus/(20131017 231236)/84C5-RT2Q.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=214397 loop_end=294463 sample=../Audio/Look Ma No Chorus/(20131017 231236)/84C5-OPWT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=345017 loop_end=424910 sample=../Audio/Look Ma No Chorus/(20131017 231236)/84C5-N6KL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247688 loop_end=468064 sample=../Audio/Look Ma No Chorus/(20131017 231236)/84C5-C7MB.aif

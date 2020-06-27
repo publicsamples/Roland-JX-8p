@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tx:program xsi:schemaLocation="http://www.tx16wx.com/3.0/ program" tx:created-by="30015" tx:quality="Default"
+   tx:name="Buzzy Lead" xmlns:tx="http://www.tx16wx.com/3.0/program"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <tx:wave tx:root="C2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/36C1-LLXZ.aif"
+      tx:id="1">
+      <tx:loop tx:end="326998" tx:start="251496" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="326997" tx:start="251496" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C#2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/37C%231-1AKF.aif"
+      tx:id="2">
+      <tx:loop tx:end="363370" tx:start="284483" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="363369" tx:start="284483" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/38D1-2ZVM.aif"
+      tx:id="3">
+      <tx:loop tx:end="299742" tx:start="224080" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="299741" tx:start="224080" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D#2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/39D%231-Q3CL.aif"
+      tx:id="4">
+      <tx:loop tx:end="329311" tx:start="254498" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="329310" tx:start="254498" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="E2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/40E1-1L0A.aif"
+      tx:id="5">
+      <tx:loop tx:end="362875" tx:start="289053" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="362874" tx:start="289053" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/41F1-A0A1.aif"
+      tx:id="6">
+      <tx:loop tx:end="337534" tx:start="263817" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="337533" tx:start="263817" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F#2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/42F%231-W81W.aif"
+      tx:id="7">
+      <tx:loop tx:end="337094" tx:start="256069" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="337093" tx:start="256069" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/43G1-S1JC.aif"
+      tx:id="8">
+      <tx:loop tx:end="352255" tx:start="277588" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="352254" tx:start="277588" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G#2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/44G%231-VIM3.aif"
+      tx:id="9">
+      <tx:loop tx:end="301031" tx:start="226299" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="301030" tx:start="226299" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/45A1-0CXM.aif"
+      tx:id="10">
+      <tx:loop tx:end="293756" tx:start="220016" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="293755" tx:start="220016" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A#2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/46A%231-KTBA.aif"
+      tx:id="11">
+      <tx:loop tx:end="347645" tx:start="263669" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="347644" tx:start="263669" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="B2"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/47B1-GCW4.aif"
+      tx:id="12">
+      <tx:loop tx:end="342366" tx:start="262386" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="342365" tx:start="262386" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/48C2-K193.aif"
+      tx:id="13">
+      <tx:loop tx:end="362905" tx:start="290780" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="362904" tx:start="290780" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C#3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/49C%232-AVSJ.aif"
+      tx:id="14">
+      <tx:loop tx:end="326570" tx:start="247682" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="326569" tx:start="247682" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/50D2-CNEK.aif"
+      tx:id="15">
+      <tx:loop tx:end="349128" tx:start="275267" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="349127" tx:start="275267" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D#3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/51D%232-UERT.aif"
+      tx:id="16">
+      <tx:loop tx:end="310718" tx:start="236471" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="310717" tx:start="236471" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="E3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/52E2-3JVB.aif"
+      tx:id="17">
+      <tx:loop tx:end="313120" tx:start="238759" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="313119" tx:start="238759" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/53F2-D5HB.aif"
+      tx:id="18">
+      <tx:loop tx:end="301341" tx:start="226609" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="301340" tx:start="226609" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F#3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/54F%232-7OB0.aif"
+      tx:id="19">
+      <tx:loop tx:end="295641" tx:start="220814" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="295640" tx:start="220814" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/55G2-NZEB.aif"
+      tx:id="20">
+      <tx:loop tx:end="363104" tx:start="288426" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="363103" tx:start="288426" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G#3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/56G%232-XMCR.aif"
+      tx:id="21">
+      <tx:loop tx:end="327036" tx:start="252728" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="327035" tx:start="252728" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/57A2-I7KL.aif"
+      tx:id="22">
+      <tx:loop tx:end="330273" tx:start="256126" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="330272" tx:start="256126" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A#3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/58A%232-6YBP.aif"
+      tx:id="23">
+      <tx:loop tx:end="354889" tx:start="280748" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="354888" tx:start="280748" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="B3"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/59B2-AP6K.aif"
+      tx:id="24">
+      <tx:loop tx:end="359158" tx:start="285255" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="359157" tx:start="285255" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/60C3-ZPEF.aif"
+      tx:id="25">
+      <tx:loop tx:end="362521" tx:start="288377" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="362520" tx:start="288377" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C#4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/61C%233-QS2T.aif"
+      tx:id="26">
+      <tx:loop tx:end="335863" tx:start="261750" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="335862" tx:start="261750" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/62D3-714P.aif"
+      tx:id="27">
+      <tx:loop tx:end="360296" tx:start="285829" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="360295" tx:start="285829" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D#4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/63D%233-JAG4.aif"
+      tx:id="28">
+      <tx:loop tx:end="353941" tx:start="279678" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="353940" tx:start="279678" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="E4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/64E3-5V4I.aif"
+      tx:id="29">
+      <tx:loop tx:end="338616" tx:start="264516" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="338615" tx:start="264516" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/65F3-Z5TT.aif"
+      tx:id="30">
+      <tx:loop tx:end="336923" tx:start="262679" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="336922" tx:start="262679" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F#4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/66F%233-PIQ3.aif"
+      tx:id="31">
+      <tx:loop tx:end="355553" tx:start="281183" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="355552" tx:start="281183" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/67G3-XEHX.aif"
+      tx:id="32">
+      <tx:loop tx:end="340541" tx:start="266293" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="340540" tx:start="266293" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G#4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/68G%233-XHS8.aif"
+      tx:id="33">
+      <tx:loop tx:end="363192" tx:start="289089" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="363191" tx:start="289089" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/69A3-J8HQ.aif"
+      tx:id="34">
+      <tx:loop tx:end="327991" tx:start="253851" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="327990" tx:start="253851" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A#4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/70A%233-2EHA.aif"
+      tx:id="35">
+      <tx:loop tx:end="351835" tx:start="277324" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="351834" tx:start="277324" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="B4"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/71B3-IX2R.aif"
+      tx:id="36">
+      <tx:loop tx:end="354848" tx:start="280558" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="354847" tx:start="280558" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/72C4-IU52.aif"
+      tx:id="37">
+      <tx:loop tx:end="362644" tx:start="288471" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="362643" tx:start="288471" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C#5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/73C%234-YL22.aif"
+      tx:id="38">
+      <tx:loop tx:end="361632" tx:start="287171" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="361631" tx:start="287171" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/74D4-1Y2R.aif"
+      tx:id="39">
+      <tx:loop tx:end="351072" tx:start="276440" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="351071" tx:start="276440" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D#5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/75D%234-E8KG.aif"
+      tx:id="40">
+      <tx:loop tx:end="360841" tx:start="286426" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="360840" tx:start="286426" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="E5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/76E4-F5YM.aif"
+      tx:id="41">
+      <tx:loop tx:end="358368" tx:start="284119" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="358367" tx:start="284119" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/77F4-ZCWW.aif"
+      tx:id="42">
+      <tx:loop tx:end="363816" tx:start="289209" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="363815" tx:start="289209" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F#5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/78F%234-ZKAM.aif"
+      tx:id="43">
+      <tx:loop tx:end="346081" tx:start="251827" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="346080" tx:start="251827" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/79G4-N2VJ.aif"
+      tx:id="44">
+      <tx:loop tx:end="355749" tx:start="261685" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="355748" tx:start="261685" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G#5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/80G%234-IRIR.aif"
+      tx:id="45">
+      <tx:loop tx:end="339843" tx:start="250718" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="339842" tx:start="250718" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/81A4-ECKG.aif"
+      tx:id="46">
+      <tx:loop tx:end="353180" tx:start="258980" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="353179" tx:start="258980" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A#5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/82A%234-HVC8.aif"
+      tx:id="47">
+      <tx:loop tx:end="353224" tx:start="258884" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="353223" tx:start="258884" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="B5"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/83B4-4RHR.aif"
+      tx:id="48">
+      <tx:loop tx:end="321837" tx:start="227788" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="321836" tx:start="227788" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/84C5-WBY3.aif"
+      tx:id="49">
+      <tx:loop tx:end="345475" tx:start="251005" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="345474" tx:start="251005" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C#6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/85C%235-Z46O.aif"
+      tx:id="50">
+      <tx:loop tx:end="347085" tx:start="252793" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="347084" tx:start="252793" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/86D5-QL4Z.aif"
+      tx:id="51">
+      <tx:loop tx:end="340679" tx:start="246709" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="340678" tx:start="246709" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="D#6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/87D%235-10U6.aif"
+      tx:id="52">
+      <tx:loop tx:end="349887" tx:start="255957" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="349886" tx:start="255957" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="E6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/88E5-JT0K.aif"
+      tx:id="53">
+      <tx:loop tx:end="354073" tx:start="259930" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="354072" tx:start="259930" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/89F5-E39Z.aif"
+      tx:id="54">
+      <tx:loop tx:end="353064" tx:start="258984" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="353063" tx:start="258984" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="F#6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/90F%235-A3NF.aif"
+      tx:id="55">
+      <tx:loop tx:end="355189" tx:start="261068" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="355188" tx:start="261068" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/91G5-OKQ0.aif"
+      tx:id="56">
+      <tx:loop tx:end="346261" tx:start="252046" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="346260" tx:start="252046" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="G#6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/92G%235-H1PA.aif"
+      tx:id="57">
+      <tx:loop tx:end="354260" tx:start="259754" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="354259" tx:start="259754" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/93A5-75G9.aif"
+      tx:id="58">
+      <tx:loop tx:end="357605" tx:start="258228" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="357604" tx:start="258228" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="A#6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/94A%235-6ELE.aif"
+      tx:id="59">
+      <tx:loop tx:end="355280" tx:start="260947" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="355279" tx:start="260947" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="B6"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/95B5-D4JA.aif"
+      tx:id="60">
+      <tx:loop tx:end="345181" tx:start="250954" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="345180" tx:start="250954" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:wave tx:root="C7"
+      tx:path="file:///Volumes/samplesz/Synth%20Samples/Roland%20JX-8P%20pt1/Roland-JX-8P-pt1/Audio/Buzzy%20Lead/%282013115%206923%29/96C6-CX7Q.aif"
+      tx:id="61">
+      <tx:loop tx:end="363808" tx:start="264563" tx:mode="Forward" tx:name="1"/>
+      <tx:loop tx:end="1" tx:start="0" tx:mode="None" tx:name="2"/>
+      <tx:loop tx:end="363807" tx:start="264563" tx:mode="Forward" tx:name=""/>
+   </tx:wave>
+   <tx:bounds tx:high-vel="127" tx:high-key="G9" tx:low-vel="0" tx:low-key="C-1"/>
+   <tx:soundshape tx:start="0ms" tx:velocity-offset="0" tx:glide-mode="Held" tx:glide="0ms" tx:velocity="100%"
+      tx:volume="0 dB" tx:delay="0ms" tx:name="" tx:pan="0%" tx:id="b5fd9a5d-dc1c-44b0-8c32-8496c238d2dc">
+      <tx:aeg tx:sustain="0 dB" tx:release-shape="-50%" tx:release="72.0ms" tx:level1="0 dB" tx:decay2="0ms"
+         tx:decay2-shape="-50%" tx:decay1-shape="-50%" tx:decay1="500ms" tx:attack-shape="-50%" tx:level2="0 dB"
+         tx:attack="0ms"/>
+      <tx:env1 tx:shape1="-50%" tx:time2="0ms" tx:time3="0ms" tx:time1="0ms" tx:level3="0%" tx:shape2="-50%"
+         tx:level1="100%" tx:level0="0%" tx:shape3="-50%" tx:level2="0%" tx:amp="0 dB"/>
+      <tx:env2 tx:shape1="-50%" tx:time2="0ms" tx:time3="0ms" tx:time1="0ms" tx:level3="0%" tx:shape2="-50%"
+         tx:level1="0%" tx:level0="0%" tx:shape3="-50%" tx:level2="0%" tx:amp="0 dB"/>
+      <tx:lfo1 tx:amp="100%" tx:pos="0%" tx:fade-in="0ms" tx:mode="Normal" tx:sync="Key" tx:beat="1/16" tx:type="Sinus"
+         tx:rate="0Hz"/>
+      <tx:lfo2 tx:amp="100%" tx:pos="0%" tx:fade-in="0ms" tx:mode="Normal" tx:sync="Key" tx:beat="1/16" tx:type="Sinus"
+         tx:rate="29Hz"/>
+      <tx:seq1 tx:length="16" tx:amp="100%" tx:pos="0%" tx:fade-in="0ms" tx:mode="Normal"
+         tx:values="0,31,63,95,127,95,63,31,0,-31,-63,-95,-127,-95,-63,-31," tx:sync="Key" tx:beat="1/16" tx:rate="29Hz"/>
+      <tx:seq2 tx:length="0" tx:amp="100%" tx:pos="0%" tx:fade-in="0ms" tx:mode="Normal" tx:values="" tx:sync="Key"
+         tx:beat="1/16" tx:rate="0.5Hz"/>
+      <tx:seq3 tx:length="0" tx:amp="100%" tx:pos="0%" tx:fade-in="0ms" tx:mode="Normal" tx:values="" tx:sync="Key"
+         tx:beat="1/16" tx:rate="0.5Hz"/>
+      <tx:filter1 tx:slope="24dB" tx:drive="10%" tx:resonance="100%" tx:cutoff="20kHz" tx:type="Off"/>
+      <tx:filter2 tx:slope="12dB" tx:drive="0%" tx:resonance="0%" tx:cutoff="20kHz" tx:type="Off"/>
+      <tx:send tx:level="0 dB"/>
+      <tx:send tx:level="0 dB"/>
+      <tx:send tx:level="0 dB"/>
+      <tx:modulation>
+         <tx:entry tx:amount="100Ct" tx:destination="Pitch (raw)" tx:source="Pitchbend">
+            <tx:src-curve tx:shape="Linear" tx:smooth="true"/>
+            <tx:via-curve tx:shape="Linear" tx:smooth="true"/>
+         </tx:entry>
+      </tx:modulation>
+   </tx:soundshape>
+   <tx:group tx:soundshape="b5fd9a5d-dc1c-44b0-8c32-8496c238d2dc" tx:color="blue" tx:scale="100" tx:noteprio="Last"
+      tx:quality="Default" tx:playback="Resample" tx:pan="0%" tx:choke-group="0" tx:polymode="Poly" tx:output="--"
+      tx:playmode="Normal" tx:fine="0" tx:coarse="0" tx:volume="0 dB" tx:name="36(C1)-127 &lt;KmL0>">
+      <tx:region tx:wave="1" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C2" tx:low-vel="1" tx:low-key="C2"/>
+      </tx:region>
+      <tx:region tx:wave="2" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C#2" tx:low-vel="1" tx:low-key="C#2"/>
+      </tx:region>
+      <tx:region tx:wave="3" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D2" tx:low-vel="1" tx:low-key="D2"/>
+      </tx:region>
+      <tx:region tx:wave="4" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D#2" tx:low-vel="1" tx:low-key="D#2"/>
+      </tx:region>
+      <tx:region tx:wave="5" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="E2" tx:low-vel="1" tx:low-key="E2"/>
+      </tx:region>
+      <tx:region tx:wave="6" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F2" tx:low-vel="1" tx:low-key="F2"/>
+      </tx:region>
+      <tx:region tx:wave="7" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F#2" tx:low-vel="1" tx:low-key="F#2"/>
+      </tx:region>
+      <tx:region tx:wave="8" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G2" tx:low-vel="1" tx:low-key="G2"/>
+      </tx:region>
+      <tx:region tx:wave="9" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G#2" tx:low-vel="1" tx:low-key="G#2"/>
+      </tx:region>
+      <tx:region tx:wave="10" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A2" tx:low-vel="1" tx:low-key="A2"/>
+      </tx:region>
+      <tx:region tx:wave="11" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A#2" tx:low-vel="1" tx:low-key="A#2"/>
+      </tx:region>
+      <tx:region tx:wave="12" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="B2" tx:low-vel="1" tx:low-key="B2"/>
+      </tx:region>
+      <tx:region tx:wave="13" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C3" tx:low-vel="1" tx:low-key="C3"/>
+      </tx:region>
+      <tx:region tx:wave="14" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C#3" tx:low-vel="1" tx:low-key="C#3"/>
+      </tx:region>
+      <tx:region tx:wave="15" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D3" tx:low-vel="1" tx:low-key="D3"/>
+      </tx:region>
+      <tx:region tx:wave="16" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D#3" tx:low-vel="1" tx:low-key="D#3"/>
+      </tx:region>
+      <tx:region tx:wave="17" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="E3" tx:low-vel="1" tx:low-key="E3"/>
+      </tx:region>
+      <tx:region tx:wave="18" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F3" tx:low-vel="1" tx:low-key="F3"/>
+      </tx:region>
+      <tx:region tx:wave="19" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F#3" tx:low-vel="1" tx:low-key="F#3"/>
+      </tx:region>
+      <tx:region tx:wave="20" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G3" tx:low-vel="1" tx:low-key="G3"/>
+      </tx:region>
+      <tx:region tx:wave="21" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G#3" tx:low-vel="1" tx:low-key="G#3"/>
+      </tx:region>
+      <tx:region tx:wave="22" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A3" tx:low-vel="1" tx:low-key="A3"/>
+      </tx:region>
+      <tx:region tx:wave="23" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A#3" tx:low-vel="1" tx:low-key="A#3"/>
+      </tx:region>
+      <tx:region tx:wave="24" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="B3" tx:low-vel="1" tx:low-key="B3"/>
+      </tx:region>
+      <tx:region tx:wave="25" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C4" tx:low-vel="1" tx:low-key="C4"/>
+      </tx:region>
+      <tx:region tx:wave="26" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C#4" tx:low-vel="1" tx:low-key="C#4"/>
+      </tx:region>
+      <tx:region tx:wave="27" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D4" tx:low-vel="1" tx:low-key="D4"/>
+      </tx:region>
+      <tx:region tx:wave="28" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D#4" tx:low-vel="1" tx:low-key="D#4"/>
+      </tx:region>
+      <tx:region tx:wave="29" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="E4" tx:low-vel="1" tx:low-key="E4"/>
+      </tx:region>
+      <tx:region tx:wave="30" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F4" tx:low-vel="1" tx:low-key="F4"/>
+      </tx:region>
+      <tx:region tx:wave="31" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F#4" tx:low-vel="1" tx:low-key="F#4"/>
+      </tx:region>
+      <tx:region tx:wave="32" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G4" tx:low-vel="1" tx:low-key="G4"/>
+      </tx:region>
+      <tx:region tx:wave="33" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G#4" tx:low-vel="1" tx:low-key="G#4"/>
+      </tx:region>
+      <tx:region tx:wave="34" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A4" tx:low-vel="1" tx:low-key="A4"/>
+      </tx:region>
+      <tx:region tx:wave="35" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A#4" tx:low-vel="1" tx:low-key="A#4"/>
+      </tx:region>
+      <tx:region tx:wave="36" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="B4" tx:low-vel="1" tx:low-key="B4"/>
+      </tx:region>
+      <tx:region tx:wave="37" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C5" tx:low-vel="1" tx:low-key="C5"/>
+      </tx:region>
+      <tx:region tx:wave="38" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C#5" tx:low-vel="1" tx:low-key="C#5"/>
+      </tx:region>
+      <tx:region tx:wave="39" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D5" tx:low-vel="1" tx:low-key="D5"/>
+      </tx:region>
+      <tx:region tx:wave="40" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D#5" tx:low-vel="1" tx:low-key="D#5"/>
+      </tx:region>
+      <tx:region tx:wave="41" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="E5" tx:low-vel="1" tx:low-key="E5"/>
+      </tx:region>
+      <tx:region tx:wave="42" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F5" tx:low-vel="1" tx:low-key="F5"/>
+      </tx:region>
+      <tx:region tx:wave="43" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F#5" tx:low-vel="1" tx:low-key="F#5"/>
+      </tx:region>
+      <tx:region tx:wave="44" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G5" tx:low-vel="1" tx:low-key="G5"/>
+      </tx:region>
+      <tx:region tx:wave="45" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G#5" tx:low-vel="1" tx:low-key="G#5"/>
+      </tx:region>
+      <tx:region tx:wave="46" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A5" tx:low-vel="1" tx:low-key="A5"/>
+      </tx:region>
+      <tx:region tx:wave="47" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A#5" tx:low-vel="1" tx:low-key="A#5"/>
+      </tx:region>
+      <tx:region tx:wave="48" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="B5" tx:low-vel="1" tx:low-key="B5"/>
+      </tx:region>
+      <tx:region tx:wave="49" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C6" tx:low-vel="1" tx:low-key="C6"/>
+      </tx:region>
+      <tx:region tx:wave="50" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C#6" tx:low-vel="1" tx:low-key="C#6"/>
+      </tx:region>
+      <tx:region tx:wave="51" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D6" tx:low-vel="1" tx:low-key="D6"/>
+      </tx:region>
+      <tx:region tx:wave="52" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="D#6" tx:low-vel="1" tx:low-key="D#6"/>
+      </tx:region>
+      <tx:region tx:wave="53" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="E6" tx:low-vel="1" tx:low-key="E6"/>
+      </tx:region>
+      <tx:region tx:wave="54" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F6" tx:low-vel="1" tx:low-key="F6"/>
+      </tx:region>
+      <tx:region tx:wave="55" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="F#6" tx:low-vel="1" tx:low-key="F#6"/>
+      </tx:region>
+      <tx:region tx:wave="56" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G6" tx:low-vel="1" tx:low-key="G6"/>
+      </tx:region>
+      <tx:region tx:wave="57" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="G#6" tx:low-vel="1" tx:low-key="G#6"/>
+      </tx:region>
+      <tx:region tx:wave="58" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A6" tx:low-vel="1" tx:low-key="A6"/>
+      </tx:region>
+      <tx:region tx:wave="59" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="A#6" tx:low-vel="1" tx:low-key="A#6"/>
+      </tx:region>
+      <tx:region tx:wave="60" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="B6" tx:low-vel="1" tx:low-key="B6"/>
+      </tx:region>
+      <tx:region tx:wave="61" tx:release="2" tx:loop="2" tx:pan="0%" tx:attenuation="0 dB" tx:mode="DFD">
+         <tx:bounds tx:high-vel="127" tx:high-key="C7" tx:low-vel="1" tx:low-key="C7"/>
+      </tx:region>
+   </tx:group>
+</tx:program>

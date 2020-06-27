@@ -1,0 +1,124 @@
+// this file was generated from Dark Pad Detune.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=228643 loop_end=340524 sample=../Audio/Dark Pad Detune/(2013115 63235)/36C1-XQKV.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=144873 loop_end=354814 sample=../Audio/Dark Pad Detune/(2013115 63235)/37C#1-ZCNI.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=201254 loop_end=298538 sample=../Audio/Dark Pad Detune/(2013115 63235)/38D1-75SZ.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254714 loop_end=349915 sample=../Audio/Dark Pad Detune/(2013115 63235)/39D#1-K5GX.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192562 loop_end=281363 sample=../Audio/Dark Pad Detune/(2013115 63235)/40E1-V9NW.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170156 loop_end=252965 sample=../Audio/Dark Pad Detune/(2013115 63235)/41F1-E9M7.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=167938 loop_end=247048 sample=../Audio/Dark Pad Detune/(2013115 63235)/42F#1-X55E.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149533 loop_end=298873 sample=../Audio/Dark Pad Detune/(2013115 63235)/43G1-L81Q.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150329 loop_end=358400 sample=../Audio/Dark Pad Detune/(2013115 63235)/44G#1-UEQV.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153895 loop_end=286947 sample=../Audio/Dark Pad Detune/(2013115 63235)/45A1-L9SE.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145524 loop_end=333902 sample=../Audio/Dark Pad Detune/(2013115 63235)/46A#1-P1R5.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177676 loop_end=295507 sample=../Audio/Dark Pad Detune/(2013115 63235)/47B1-7R2V.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166632 loop_end=278513 sample=../Audio/Dark Pad Detune/(2013115 63235)/48C2-M6WJ.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157620 loop_end=314142 sample=../Audio/Dark Pad Detune/(2013115 63235)/49C#2-0EGQ.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163025 loop_end=261509 sample=../Audio/Dark Pad Detune/(2013115 63235)/50D2-DNC1.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154138 loop_end=341165 sample=../Audio/Dark Pad Detune/(2013115 63235)/51D#2-HXXC.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=177077 loop_end=264821 sample=../Audio/Dark Pad Detune/(2013115 63235)/52E2-MW61.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=164859 loop_end=289574 sample=../Audio/Dark Pad Detune/(2013115 63235)/53F2-GC9P.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=164016 loop_end=243129 sample=../Audio/Dark Pad Detune/(2013115 63235)/54F#2-NHZM.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159935 loop_end=233713 sample=../Audio/Dark Pad Detune/(2013115 63235)/55G2-H6G7.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141417 loop_end=349495 sample=../Audio/Dark Pad Detune/(2013115 63235)/56G#2-TAT0.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165819 loop_end=266006 sample=../Audio/Dark Pad Detune/(2013115 63235)/57A2-VEBJ.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155524 loop_end=280350 sample=../Audio/Dark Pad Detune/(2013115 63235)/58A#2-WFHF.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148552 loop_end=297784 sample=../Audio/Dark Pad Detune/(2013115 63235)/59B2-L19C.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=168841 loop_end=253762 sample=../Audio/Dark Pad Detune/(2013115 63235)/60C3-2T6K.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157545 loop_end=262526 sample=../Audio/Dark Pad Detune/(2013115 63235)/61C#3-8J8J.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=170942 loop_end=244518 sample=../Audio/Dark Pad Detune/(2013115 63235)/62D3-WMQ8.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160658 loop_end=276309 sample=../Audio/Dark Pad Detune/(2013115 63235)/63D#3-8FVY.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156779 loop_end=246924 sample=../Audio/Dark Pad Detune/(2013115 63235)/64E3-XO1Z.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149498 loop_end=274486 sample=../Audio/Dark Pad Detune/(2013115 63235)/65F3-7MCL.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173608 loop_end=251322 sample=../Audio/Dark Pad Detune/(2013115 63235)/66F#3-UPIU.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148768 loop_end=279933 sample=../Audio/Dark Pad Detune/(2013115 63235)/67G3-KE4E.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=140480 loop_end=361560 sample=../Audio/Dark Pad Detune/(2013115 63235)/68G#3-RRIU.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149541 loop_end=332687 sample=../Audio/Dark Pad Detune/(2013115 63235)/69A3-DKPX.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157736 loop_end=253036 sample=../Audio/Dark Pad Detune/(2013115 63235)/70A#3-X2HN.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145762 loop_end=336143 sample=../Audio/Dark Pad Detune/(2013115 63235)/71B3-RHYX.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=168728 loop_end=253671 sample=../Audio/Dark Pad Detune/(2013115 63235)/72C4-1C40.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143852 loop_end=341458 sample=../Audio/Dark Pad Detune/(2013115 63235)/73C#4-67GN.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232912 loop_end=306808 sample=../Audio/Dark Pad Detune/(2013115 63235)/74D4-23S3.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149153 loop_end=299668 sample=../Audio/Dark Pad Detune/(2013115 63235)/75D#4-WQ7G.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141190 loop_end=360206 sample=../Audio/Dark Pad Detune/(2013115 63235)/76E4-PQUY.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=144017 loop_end=331433 sample=../Audio/Dark Pad Detune/(2013115 63235)/77F4-NJ00.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148739 loop_end=358682 sample=../Audio/Dark Pad Detune/(2013115 63235)/78F#4-E309.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151830 loop_end=278770 sample=../Audio/Dark Pad Detune/(2013115 63235)/79G4-21JD.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165635 loop_end=253769 sample=../Audio/Dark Pad Detune/(2013115 63235)/80G#4-34VY.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=146316 loop_end=354108 sample=../Audio/Dark Pad Detune/(2013115 63235)/81A4-9TXO.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142211 loop_end=357122 sample=../Audio/Dark Pad Detune/(2013115 63235)/82A#4-SF9S.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156928 loop_end=245017 sample=../Audio/Dark Pad Detune/(2013115 63235)/83B4-QOWR.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145033 loop_end=341569 sample=../Audio/Dark Pad Detune/(2013115 63235)/84C5-5J5S.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161571 loop_end=244543 sample=../Audio/Dark Pad Detune/(2013115 63235)/85C#5-7ATS.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=144674 loop_end=345366 sample=../Audio/Dark Pad Detune/(2013115 63235)/86D5-RP5T.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150404 loop_end=266055 sample=../Audio/Dark Pad Detune/(2013115 63235)/87D#5-146K.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=146946 loop_end=354793 sample=../Audio/Dark Pad Detune/(2013115 63235)/88E5-KYAZ.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=140414 loop_end=340085 sample=../Audio/Dark Pad Detune/(2013115 63235)/89F5-OID5.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151787 loop_end=269535 sample=../Audio/Dark Pad Detune/(2013115 63235)/90F#5-Z2RZ.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155045 loop_end=250250 sample=../Audio/Dark Pad Detune/(2013115 63235)/91G5-QYIZ.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=141949 loop_end=331437 sample=../Audio/Dark Pad Detune/(2013115 63235)/92G#5-AATO.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=139796 loop_end=357839 sample=../Audio/Dark Pad Detune/(2013115 63235)/93A5-18B3.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152053 loop_end=273863 sample=../Audio/Dark Pad Detune/(2013115 63235)/94A#5-CM49.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155102 loop_end=254368 sample=../Audio/Dark Pad Detune/(2013115 63235)/95B5-186M.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160507 loop_end=249626 sample=../Audio/Dark Pad Detune/(2013115 63235)/96C6-WR2F.aif
