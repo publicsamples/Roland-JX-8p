@@ -1,124 +1,124 @@
 // this file was generated from Dark Pad Chorus.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=169332 loop_end=244787 sample=../Audio/Dark Pad Chorus/(2013115 64613)/36C1-PR2U.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155988 loop_end=280688 sample=../Audio/Dark Pad Chorus/(2013115 64613)/37C#1-LREN.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=172428 loop_end=248051 sample=../Audio/Dark Pad Chorus/(2013115 64613)/38D1-2N12.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147984 loop_end=327065 sample=../Audio/Dark Pad Chorus/(2013115 64613)/39D#1-9XYN.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=144994 loop_end=334381 sample=../Audio/Dark Pad Chorus/(2013115 64613)/40E1-WLK3.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245903 loop_end=318589 sample=../Audio/Dark Pad Chorus/(2013115 64613)/41F1-84LQ.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155905 loop_end=279816 sample=../Audio/Dark Pad Chorus/(2013115 64613)/42F#1-04LW.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148873 loop_end=334213 sample=../Audio/Dark Pad Chorus/(2013115 64613)/43G1-U1FM.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149853 loop_end=333288 sample=../Audio/Dark Pad Chorus/(2013115 64613)/44G#1-O87V.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158001 loop_end=279028 sample=../Audio/Dark Pad Chorus/(2013115 64613)/45A1-5J6G.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150596 loop_end=332920 sample=../Audio/Dark Pad Chorus/(2013115 64613)/46A#1-FJBR.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160332 loop_end=281730 sample=../Audio/Dark Pad Chorus/(2013115 64613)/47B1-TGPU.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149815 loop_end=333141 sample=../Audio/Dark Pad Chorus/(2013115 64613)/48C2-OMK1.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155695 loop_end=279129 sample=../Audio/Dark Pad Chorus/(2013115 64613)/49C#2-5Q18.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158993 loop_end=280898 sample=../Audio/Dark Pad Chorus/(2013115 64613)/50D2-1SV0.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159084 loop_end=280933 sample=../Audio/Dark Pad Chorus/(2013115 64613)/51D#2-SYUX.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159205 loop_end=280646 sample=../Audio/Dark Pad Chorus/(2013115 64613)/52E2-51TV.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=159804 loop_end=281994 sample=../Audio/Dark Pad Chorus/(2013115 64613)/53F2-EE75.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149760 loop_end=333254 sample=../Audio/Dark Pad Chorus/(2013115 64613)/54F#2-0QQL.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150927 loop_end=333127 sample=../Audio/Dark Pad Chorus/(2013115 64613)/55G2-749D.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163779 loop_end=283536 sample=../Audio/Dark Pad Chorus/(2013115 64613)/56G#2-P5KE.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142481 loop_end=324825 sample=../Audio/Dark Pad Chorus/(2013115 64613)/57A2-06GL.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151577 loop_end=273758 sample=../Audio/Dark Pad Chorus/(2013115 64613)/58A#2-VUDE.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150642 loop_end=272383 sample=../Audio/Dark Pad Chorus/(2013115 64613)/59B2-Z8AL.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151614 loop_end=333926 sample=../Audio/Dark Pad Chorus/(2013115 64613)/60C3-CLE6.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148193 loop_end=330475 sample=../Audio/Dark Pad Chorus/(2013115 64613)/61C#3-HEDW.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148236 loop_end=330519 sample=../Audio/Dark Pad Chorus/(2013115 64613)/62D3-J8Q9.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=146575 loop_end=328838 sample=../Audio/Dark Pad Chorus/(2013115 64613)/63D#3-N2MG.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148203 loop_end=330633 sample=../Audio/Dark Pad Chorus/(2013115 64613)/64E3-GJR3.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=146523 loop_end=328829 sample=../Audio/Dark Pad Chorus/(2013115 64613)/65F3-6YLZ.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145483 loop_end=327851 sample=../Audio/Dark Pad Chorus/(2013115 64613)/66F#3-3HDY.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152174 loop_end=273665 sample=../Audio/Dark Pad Chorus/(2013115 64613)/67G3-XGTQ.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149450 loop_end=331664 sample=../Audio/Dark Pad Chorus/(2013115 64613)/68G#3-G6CQ.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149416 loop_end=331759 sample=../Audio/Dark Pad Chorus/(2013115 64613)/69A3-RDAA.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157620 loop_end=339901 sample=../Audio/Dark Pad Chorus/(2013115 64613)/70A#3-9E1Q.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142364 loop_end=324708 sample=../Audio/Dark Pad Chorus/(2013115 64613)/71B3-Q69O.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=160714 loop_end=282399 sample=../Audio/Dark Pad Chorus/(2013115 64613)/72C4-J2TB.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142387 loop_end=324719 sample=../Audio/Dark Pad Chorus/(2013115 64613)/73C#4-0SVR.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158968 loop_end=280174 sample=../Audio/Dark Pad Chorus/(2013115 64613)/74D4-XUCJ.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142444 loop_end=324707 sample=../Audio/Dark Pad Chorus/(2013115 64613)/75D#4-3IVS.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152544 loop_end=334500 sample=../Audio/Dark Pad Chorus/(2013115 64613)/76E4-6RNS.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=146861 loop_end=329229 sample=../Audio/Dark Pad Chorus/(2013115 64613)/77F4-MP28.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153473 loop_end=335773 sample=../Audio/Dark Pad Chorus/(2013115 64613)/78F#4-BVCU.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148402 loop_end=330710 sample=../Audio/Dark Pad Chorus/(2013115 64613)/79G4-XMCE.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156570 loop_end=338891 sample=../Audio/Dark Pad Chorus/(2013115 64613)/80G#4-CNPN.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157215 loop_end=339458 sample=../Audio/Dark Pad Chorus/(2013115 64613)/81A4-P0PN.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147457 loop_end=329719 sample=../Audio/Dark Pad Chorus/(2013115 64613)/82A#4-E9GM.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155615 loop_end=337870 sample=../Audio/Dark Pad Chorus/(2013115 64613)/83B4-3VA8.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151486 loop_end=333772 sample=../Audio/Dark Pad Chorus/(2013115 64613)/84C5-E92B.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153542 loop_end=335794 sample=../Audio/Dark Pad Chorus/(2013115 64613)/85C#5-2DCZ.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=140349 loop_end=322503 sample=../Audio/Dark Pad Chorus/(2013115 64613)/86D5-BU37.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147539 loop_end=329773 sample=../Audio/Dark Pad Chorus/(2013115 64613)/87D#5-Y5JB.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155614 loop_end=337890 sample=../Audio/Dark Pad Chorus/(2013115 64613)/88E5-5HJ0.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154581 loop_end=336824 sample=../Audio/Dark Pad Chorus/(2013115 64613)/89F5-SD65.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=153124 loop_end=335678 sample=../Audio/Dark Pad Chorus/(2013115 64613)/90F#5-W6S1.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149494 loop_end=331802 sample=../Audio/Dark Pad Chorus/(2013115 64613)/91G5-PCNY.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152145 loop_end=227537 sample=../Audio/Dark Pad Chorus/(2013115 64613)/92G#5-WPI0.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163818 loop_end=236730 sample=../Audio/Dark Pad Chorus/(2013115 64613)/93A5-Y729.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150094 loop_end=332573 sample=../Audio/Dark Pad Chorus/(2013115 64613)/94A#5-G8G5.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145034 loop_end=327424 sample=../Audio/Dark Pad Chorus/(2013115 64613)/95B5-HGK1.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=154664 loop_end=336992 sample=../Audio/Dark Pad Chorus/(2013115 64613)/96C6-YF7W.aif

@@ -4,7 +4,9 @@
 -   **Formats:** EXS24, Kontakt, NN-XT & SFZ
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Roland_JX-8P/)
 
--   **Audio:** https://www.dropbox.com/sh/5vdujxckouq9sf1/AACPseyt3J5lUS7ddOY9C6Aza?dl=0
+**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/5vdujxckouq9sf1/AACPseyt3J5lUS7ddOY9C6Aza?dl=0)
 
 # Loading
 
@@ -32,8 +34,10 @@
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a [list of compatible instruments.](https://sfzformat.com/software/players/) 
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

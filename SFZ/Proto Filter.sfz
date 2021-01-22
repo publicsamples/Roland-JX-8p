@@ -1,124 +1,124 @@
 // this file was generated from Proto Filter.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 end=359202 sample=../Audio/Proto Filter/36C1-AWZX.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=601 end=359290 sample=../Audio/Proto Filter/37C#1-4K03.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=724 end=358445 sample=../Audio/Proto Filter/38D1-U2JR.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=869 end=359016 sample=../Audio/Proto Filter/39D#1-SIGY.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=359132 sample=../Audio/Proto Filter/40E1-5NTU.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=856 end=358063 sample=../Audio/Proto Filter/41F1-GS9S.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=817 end=358967 sample=../Audio/Proto Filter/42F#1-GVH7.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=884 end=358909 sample=../Audio/Proto Filter/43G1-CNUP.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=613 end=359810 sample=../Audio/Proto Filter/44G#1-3E8D.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=614 end=358848 sample=../Audio/Proto Filter/45A1-Q16V.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=631 end=358985 sample=../Audio/Proto Filter/46A#1-3NCN.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=958 end=358665 sample=../Audio/Proto Filter/47B1-PLRS.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=910 end=358645 sample=../Audio/Proto Filter/48C2-W6RT.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=619 end=358823 sample=../Audio/Proto Filter/49C#2-ROF3.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=728 end=359199 sample=../Audio/Proto Filter/50D2-R0L5.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=862 sample=../Audio/Proto Filter/51D#2-KWWK.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=546 sample=../Audio/Proto Filter/52E2-S9X8.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=696 end=358695 sample=../Audio/Proto Filter/53F2-Z66H.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=789 end=359150 sample=../Audio/Proto Filter/54F#2-QR3E.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=776 end=359215 sample=../Audio/Proto Filter/55G2-WA4Y.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=542 end=358859 sample=../Audio/Proto Filter/56G#2-HES7.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=368641 sample=../Audio/Proto Filter/57A2-H5JG.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=941 end=359342 sample=../Audio/Proto Filter/58A#2-EHM1.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=735 end=358670 sample=../Audio/Proto Filter/59B2-ON0S.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=979 end=358616 sample=../Audio/Proto Filter/60C3-ACJZ.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=908 end=358883 sample=../Audio/Proto Filter/61C#3-Y1XK.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=569 end=358878 sample=../Audio/Proto Filter/62D3-RKC2.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=359099 sample=../Audio/Proto Filter/63D#3-L6IS.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=778 end=359091 sample=../Audio/Proto Filter/64E3-15IL.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=792 sample=../Audio/Proto Filter/65F3-T3Q4.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=704 end=369153 sample=../Audio/Proto Filter/66F#3-E54P.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=951 sample=../Audio/Proto Filter/67G3-F4T1.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=794 end=359134 sample=../Audio/Proto Filter/68G#3-YGMO.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=642 end=359881 sample=../Audio/Proto Filter/69A3-XWY8.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=973 end=359146 sample=../Audio/Proto Filter/70A#3-56W7.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=630 end=359672 sample=../Audio/Proto Filter/71B3-A7NC.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=713 end=359217 sample=../Audio/Proto Filter/72C4-MHW1.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=606 sample=../Audio/Proto Filter/73C#4-FA7B.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=574 end=358976 sample=../Audio/Proto Filter/74D4-AU4Y.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=841 end=358025 sample=../Audio/Proto Filter/75D#4-U7EC.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 end=358615 sample=../Audio/Proto Filter/76E4-6ITU.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=832 end=358207 sample=../Audio/Proto Filter/77F4-3YJ6.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=926 end=358929 sample=../Audio/Proto Filter/78F#4-W4LE.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=810 end=359908 sample=../Audio/Proto Filter/79G4-U7HH.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=986 end=359712 sample=../Audio/Proto Filter/80G#4-3N9U.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=818 end=358967 sample=../Audio/Proto Filter/81A4-0486.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=814 end=358909 sample=../Audio/Proto Filter/82A#4-CFXE.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=829 end=359044 sample=../Audio/Proto Filter/83B4-OSH2.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=623 end=368403 sample=../Audio/Proto Filter/84C5-QW3F.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=621 end=359010 sample=../Audio/Proto Filter/85C#5-ZZNC.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=803 end=358672 sample=../Audio/Proto Filter/86D5-B8PV.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=753 end=358178 sample=../Audio/Proto Filter/87D#5-OFAQ.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=617 end=358079 sample=../Audio/Proto Filter/88E5-0PN5.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=847 end=357578 sample=../Audio/Proto Filter/89F5-BJTR.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=814 end=357874 sample=../Audio/Proto Filter/90F#5-E2XB.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=827 end=358559 sample=../Audio/Proto Filter/91G5-YCBP.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=770 end=358610 sample=../Audio/Proto Filter/92G#5-P0LZ.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 end=368178 sample=../Audio/Proto Filter/93A5-HKN5.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=843 end=358776 sample=../Audio/Proto Filter/94A#5-5NZG.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=726 end=358498 sample=../Audio/Proto Filter/95B5-XVDJ.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=835 end=358973 sample=../Audio/Proto Filter/96C6-43DT.aif

@@ -1,124 +1,124 @@
 // this file was generated from Noisy Decade.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=640 end=579069 sample=../Audio/Noisy Decade/36C1-83ZU.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=514 end=576853 sample=../Audio/Noisy Decade/37C#1-X2Z3.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=943 end=569998 sample=../Audio/Noisy Decade/38D1-D6L2.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=775 end=570766 sample=../Audio/Noisy Decade/39D#1-KRAT.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=736 end=570788 sample=../Audio/Noisy Decade/40E1-JS1X.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=624 end=571164 sample=../Audio/Noisy Decade/41F1-89IT.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=977 end=585915 sample=../Audio/Noisy Decade/42F#1-II5A.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=858 end=571041 sample=../Audio/Noisy Decade/43G1-P0GY.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=432 end=571435 sample=../Audio/Noisy Decade/44G#1-54P1.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=571751 sample=../Audio/Noisy Decade/45A1-DQJ4.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=914 end=571448 sample=../Audio/Noisy Decade/46A#1-U9AX.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=755 end=571046 sample=../Audio/Noisy Decade/47B1-42CS.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=871 end=571874 sample=../Audio/Noisy Decade/48C2-R54Q.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=596 end=582529 sample=../Audio/Noisy Decade/49C#2-HILP.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=664 end=571020 sample=../Audio/Noisy Decade/50D2-5IQN.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=915 sample=../Audio/Noisy Decade/51D#2-PO1J.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=899 end=569678 sample=../Audio/Noisy Decade/52E2-4640.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=571 end=569985 sample=../Audio/Noisy Decade/53F2-79DY.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=823 end=569631 sample=../Audio/Noisy Decade/54F#2-BGST.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=711 end=568025 sample=../Audio/Noisy Decade/55G2-85C7.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=859 end=568793 sample=../Audio/Noisy Decade/56G#2-ZUG3.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=722 end=579848 sample=../Audio/Noisy Decade/57A2-UZG7.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=759 end=567053 sample=../Audio/Noisy Decade/58A#2-KUNU.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=666 sample=../Audio/Noisy Decade/59B2-OUGE.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=608 end=570194 sample=../Audio/Noisy Decade/60C3-ZFSZ.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=604 end=579741 sample=../Audio/Noisy Decade/61C#3-218G.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=723 end=569770 sample=../Audio/Noisy Decade/62D3-IHRP.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=904 end=570069 sample=../Audio/Noisy Decade/63D#3-3L09.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=641 end=569037 sample=../Audio/Noisy Decade/64E3-5WTI.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=673 end=580439 sample=../Audio/Noisy Decade/65F3-3ARN.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=703 end=569417 sample=../Audio/Noisy Decade/66F#3-3CPM.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=619 end=579475 sample=../Audio/Noisy Decade/67G3-GV2I.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=793 end=569678 sample=../Audio/Noisy Decade/68G#3-JGFP.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=694 end=570078 sample=../Audio/Noisy Decade/69A3-FPQQ.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=876 end=555044 sample=../Audio/Noisy Decade/70A#3-L5V0.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=567 end=559270 sample=../Audio/Noisy Decade/71B3-9UTW.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=720 end=563161 sample=../Audio/Noisy Decade/72C4-OAKD.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=522 end=563693 sample=../Audio/Noisy Decade/73C#4-EG85.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=844 end=562938 sample=../Audio/Noisy Decade/74D4-7ROH.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=870 end=567360 sample=../Audio/Noisy Decade/75D#4-PECN.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=787 end=566302 sample=../Audio/Noisy Decade/76E4-T8F1.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=647 end=557470 sample=../Audio/Noisy Decade/77F4-48IQ.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=699 end=563419 sample=../Audio/Noisy Decade/78F#4-BZIZ.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=808 end=578068 sample=../Audio/Noisy Decade/79G4-AGIW.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=709 end=558061 sample=../Audio/Noisy Decade/80G#4-SML2.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 end=564707 sample=../Audio/Noisy Decade/81A4-YHPO.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=867 end=568514 sample=../Audio/Noisy Decade/82A#4-8TAO.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=611 end=578607 sample=../Audio/Noisy Decade/83B4-7HN2.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=975 end=570854 sample=../Audio/Noisy Decade/84C5-YB97.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=916 end=570752 sample=../Audio/Noisy Decade/85C#5-16R8.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=896 end=579870 sample=../Audio/Noisy Decade/86D5-3H95.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=544 end=568804 sample=../Audio/Noisy Decade/87D#5-5ZJV.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=865 end=566923 sample=../Audio/Noisy Decade/88E5-323O.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=761 end=569973 sample=../Audio/Noisy Decade/89F5-RAY9.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=892 end=554956 sample=../Audio/Noisy Decade/90F#5-2V1J.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=572 end=553326 sample=../Audio/Noisy Decade/91G5-IN7R.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=766 end=555694 sample=../Audio/Noisy Decade/92G#5-JJ78.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=824 end=552461 sample=../Audio/Noisy Decade/93A5-HNZS.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=599 end=550419 sample=../Audio/Noisy Decade/94A#5-OA1N.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=551 end=570002 sample=../Audio/Noisy Decade/95B5-WDD4.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=587 end=552285 sample=../Audio/Noisy Decade/96C6-ZRZZ.aif

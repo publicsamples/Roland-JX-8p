@@ -1,124 +1,124 @@
 // this file was generated from Mod Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1163 end=724859 sample=../Audio/Mod Pad/36C1-KLUO.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1224 end=725112 sample=../Audio/Mod Pad/37C#1-DMWN.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=640 end=724610 sample=../Audio/Mod Pad/38D1-ULT7.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1378 end=725501 sample=../Audio/Mod Pad/39D#1-7WD9.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=890 end=723605 sample=../Audio/Mod Pad/40E1-0PU4.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=911 end=724480 sample=../Audio/Mod Pad/41F1-K8G8.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=982 end=733968 sample=../Audio/Mod Pad/42F#1-DCGG.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1110 end=724892 sample=../Audio/Mod Pad/43G1-A7FN.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1055 end=715551 sample=../Audio/Mod Pad/44G#1-FVE2.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=959 end=724681 sample=../Audio/Mod Pad/45A1-VF2K.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1027 end=720880 sample=../Audio/Mod Pad/46A#1-0TE7.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1297 end=685476 sample=../Audio/Mod Pad/47B1-7ARJ.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=883 end=685615 sample=../Audio/Mod Pad/48C2-3ROC.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1070 end=686307 sample=../Audio/Mod Pad/49C#2-BJIN.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=722 end=685684 sample=../Audio/Mod Pad/50D2-U4OK.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1329 end=685729 sample=../Audio/Mod Pad/51D#2-YF7J.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=949 end=685794 sample=../Audio/Mod Pad/52E2-7ZHV.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1319 end=685947 sample=../Audio/Mod Pad/53F2-O5ZI.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1392 end=685206 sample=../Audio/Mod Pad/54F#2-JOS8.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1137 end=686076 sample=../Audio/Mod Pad/55G2-JN6T.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1417 end=687862 sample=../Audio/Mod Pad/56G#2-3SJ1.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=807 end=685955 sample=../Audio/Mod Pad/57A2-Q9HY.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1125 end=685737 sample=../Audio/Mod Pad/58A#2-LKGI.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1116 end=725248 sample=../Audio/Mod Pad/59B2-PRAB.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1001 end=685831 sample=../Audio/Mod Pad/60C3-V2JH.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1215 end=685341 sample=../Audio/Mod Pad/61C#3-D38N.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=784 end=684217 sample=../Audio/Mod Pad/62D3-M1G3.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=758 end=685747 sample=../Audio/Mod Pad/63D#3-JRZ4.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1140 end=685182 sample=../Audio/Mod Pad/64E3-XND3.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1347 end=679380 sample=../Audio/Mod Pad/65F3-OAX8.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1360 end=685544 sample=../Audio/Mod Pad/66F#3-B540.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=989 end=682725 sample=../Audio/Mod Pad/67G3-XEM7.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1104 end=685390 sample=../Audio/Mod Pad/68G#3-BRBF.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=911 end=682599 sample=../Audio/Mod Pad/69A3-KW1B.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=857 end=685426 sample=../Audio/Mod Pad/70A#3-URJB.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1075 end=698509 sample=../Audio/Mod Pad/71B3-0PXQ.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=659 end=690368 sample=../Audio/Mod Pad/72C4-JCVY.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1081 end=694717 sample=../Audio/Mod Pad/73C#4-64A4.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1356 end=686131 sample=../Audio/Mod Pad/74D4-C5SO.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=802 end=694863 sample=../Audio/Mod Pad/75D#4-O6GH.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=955 sample=../Audio/Mod Pad/76E4-FNQ9.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=821 end=686307 sample=../Audio/Mod Pad/77F4-1COS.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1131 end=685244 sample=../Audio/Mod Pad/78F#4-2LOJ.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=861 end=686542 sample=../Audio/Mod Pad/79G4-AS8J.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1206 end=691908 sample=../Audio/Mod Pad/80G#4-SK2D.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=832 end=693572 sample=../Audio/Mod Pad/81A4-WU1G.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=785 end=706898 sample=../Audio/Mod Pad/82A#4-FFH8.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1170 end=686192 sample=../Audio/Mod Pad/83B4-0RXM.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1137 end=706808 sample=../Audio/Mod Pad/84C5-PULD.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=836 end=714206 sample=../Audio/Mod Pad/85C#5-7I2M.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=930 end=685915 sample=../Audio/Mod Pad/86D5-DVKK.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=898 end=703271 sample=../Audio/Mod Pad/87D#5-E3X2.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=823 end=709445 sample=../Audio/Mod Pad/88E5-VQVK.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=768 sample=../Audio/Mod Pad/89F5-50D5.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=928 end=693727 sample=../Audio/Mod Pad/90F#5-SVPW.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=992 end=693523 sample=../Audio/Mod Pad/91G5-Y89A.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=801 sample=../Audio/Mod Pad/92G#5-OVHX.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=961 end=714284 sample=../Audio/Mod Pad/93A5-MQ3G.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1002 end=696549 sample=../Audio/Mod Pad/94A#5-QYMN.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=897 end=692926 sample=../Audio/Mod Pad/95B5-QH5F.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=980 end=723108 sample=../Audio/Mod Pad/96C6-UCM5.aif
