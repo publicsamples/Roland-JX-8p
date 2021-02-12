@@ -3,6 +3,7 @@
 
 -   **Formats:** EXS24, Kontakt, NN-XT & SFZ
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Roland_JX-8P/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jx8.html)
 
 **This collection requires you to download the audio seperately**
 
