@@ -5,9 +5,8 @@
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Roland_JX-8P/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/jx8.html)
 
-**This collection requires you to download the audio seperately**
+**[Download Audio](https://github.com/publicsamples/Roland-JX-8p/releases/tag/1.0)**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/5vdujxckouq9sf1/AACPseyt3J5lUS7ddOY9C6Aza?dl=0)
 
 # Loading
 
